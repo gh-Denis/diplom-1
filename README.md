@@ -14,7 +14,7 @@
 
 ---
 ### Отчет Jacoco
-![Jacoco report](https://github.com/gh-Denis/diplom-1/blob/develop1/src/main/resources/Jacoco_report.PNG)
+![Jacoco report](https://github.com/gh-Denis/diplom-1/blob/main/src/main/resources/Jacoco_report.PNG)
 
 ---
 #### Использованы технологии:
